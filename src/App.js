@@ -32,7 +32,7 @@ const App = () => {
         bgColor={colors.red}
         textColor={colors.white}
         title="These are Teddy Bear and Pandinha"
-        text="They've just known each recently, but they've started dating as soon as they second meet."
+        text="They've just known each other recently, but they've started dating as soon as they second meet."
         btnText="Next"
         sequency="1"
       />
