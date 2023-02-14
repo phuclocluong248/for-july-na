@@ -32,7 +32,7 @@ const App = () => {
         bgColor={colors.red}
         textColor={colors.white}
         title="These are Teddy Bear and Pandinha"
-        text="They've just known each recently, but they're dating as soon as they second meet."
+        text="They've just known each recently, but they've started dating as soon as they second meet."
         btnText="Next"
         sequency="1"
       />
@@ -41,7 +41,7 @@ const App = () => {
         bgColor={colors.blue}
         textColor={colors.white}
         title="Little Bear"
-        text="Teddy bear is very studious and funny, he always makes Pandinha laugh, but he is sometimes slow and doesn't understand what the Padinha wants."
+        text="Teddy bear is very studious and funny, he always makes Pandinha laugh, but he is sometimes slow and doesn't understand what the Pandinha wants."
         btnBack="Back"
         btnText="Continue"
         sequency="2"
@@ -81,7 +81,7 @@ const App = () => {
         bgColor={colors.green}
         textColor={colors.white}
         title="Teddy Bear's Sadness"
-        text="Sometimes it's the teddy bear that gets sad with some problems, and then the pandinha comes with her love and cuteness and helps the teddy bear when he's sad. :)"
+        text="Sometimes it's Teddy Bear that gets sad with some problems, and then Pandinha comes with her love and cuteness and helps Teddy Bear when he's sad. :)"
         btnText="Continue"
         btnBack="Back"
         sequency="6"
@@ -101,7 +101,7 @@ const App = () => {
         bgColor={colors.yellow}
         textColor={colors.white}
         title="Pandinha and her patience"
-        text="The pandinha is VERY LOVELY, but she was a little bit angry at that moment"
+        text="Pandinha is VERY LOVELY, but she was a little bit angry at that moment"
         btnText="Continue"
         btnBack="Back"
         sequency="8"
@@ -111,7 +111,7 @@ const App = () => {
         bgColor={colors.purple}
         textColor={colors.white}
         title="Teddy Bear's insistence"
-        text="Teddy Bear try to cheer Pandinha up and show his love to her"
+        text="Teddy Bear tries to cheer Pandinha up and show his love to her"
         btnText="Continue"
         btnBack="Back"
         sequency="9"
@@ -160,9 +160,9 @@ const App = () => {
         imageUrl={ursinhos_bebida}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Drink together"
-        text="Teddy bear and pandinha love to drink together, and enjoy the good times with some songs"
-        btnText="After drink..."
+        title="Play together"
+        text="Teddy bear and pandinha love to play together, and enjoy the good times with some songs"
+        btnText="Continue"
         btnBack="Back"
         sequency="14"
       />
@@ -181,7 +181,7 @@ const App = () => {
         bgColor={colors.purple}
         textColor={colors.white}
         title="At night"
-        text="But every day, when the Teddy Bear can't stand to stay up talking to Pandinha any longer, they say goodbye and pretend to sleep together."
+        text="But every day, when the Teddy Bear can't stand to stay up talking to Pandinha any longer, they say goodbye and sleep together."
         btnText="Sleeps later..."
         btnBack="Back"
         sequency="16"
@@ -202,7 +202,7 @@ const App = () => {
         textColor={colors.white}
         title="Happy Valentine's Day"
         text="Finally ... I hope you like my stupid story, as I want our love will always cute like the one of Teddy & Pandinha."
-        quote="I love you July Na like I never loved anyone... ~Eric"
+        quote="I love you, July Na like I never loved anyone... ~Eric"
         btnText="End"
         btnBack="Back"
         sequency="18"
